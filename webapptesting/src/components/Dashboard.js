@@ -52,7 +52,6 @@ const Dashboard = () => {
 
   return (
     <div>
-      Dashboard Component
       <Display 
       strikes={strikes}
       balls={balls}
